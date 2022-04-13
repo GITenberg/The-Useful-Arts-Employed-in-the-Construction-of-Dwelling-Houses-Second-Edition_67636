@@ -1,0 +1,35 @@
+_repo: The-Useful-Arts-Employed-in-the-Construction-of-Dwelling-Houses-Second-Edition_67636
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-03-15'
+identifiers:
+  gutenberg: '67636'
+language: en
+publication_note: United Kingdom :John W. Parker,1851.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Domestic'
+- !lcc 'TH'
+- !lcsh 'Dwellings -- Design and construction'
+- !lcc 'NA'
+- !lcsh 'Building materials'
+- GITenberg
+tableOfContents: 'The walls: stone and stone-work -- On the durability of stone buildings
+  -- The walls: bricks and brick-work -- The roof: slates and other roof coverings
+  -- The wood-work: growth and transport of timber -- The wood-work: carpentry --
+  The fire-place -- The windows and lead-work -- The interior: plastering and paper-hanging
+  -- The interior: painting and gilding -- A model dwelling-house -- Fire-proof houses
+  -- Miscellaneous processes.'
+title: The Useful Arts Employed in the Construction of Dwelling Houses. Second Edition
+url: http://www.gutenberg.org/ebooks/67636
